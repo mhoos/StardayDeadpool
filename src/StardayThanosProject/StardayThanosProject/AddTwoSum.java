@@ -2,6 +2,7 @@ package StardayThanosProject.StardayThanosProject;
 
 public class AddTwoSum {
 	// test git
+	//Welcome to fgit class
 	public static void main(String[] args) {
 		String str="Hellow World";
 		System.out.println(reverse(str));
